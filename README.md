@@ -20,7 +20,7 @@
 
 #### 🔧 Languages
 
-![C#](https://img.shields.io/badge/C#-%230175C2.svg?style=for-the-badge&logo=C#&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 #### 🔧 Tools
@@ -54,6 +54,7 @@
  <div align=center>
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTerradas&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
 
  </div>
  
