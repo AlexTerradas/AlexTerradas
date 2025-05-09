@@ -14,7 +14,6 @@
 ---
 
 - 👨‍💻 As an game developer and VR developer, I'm constantly learning and exploring new technologies to improve my skills.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
 
 ## 🛠 &nbsp;Tech Stack
 
