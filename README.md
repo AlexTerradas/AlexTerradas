@@ -83,9 +83,3 @@
 ---
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
-------
-
-Credit: [Alex Terradas](https://github.com/AlexTerradas)
-
-Last Edited on: 09/05/2025
