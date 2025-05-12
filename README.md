@@ -13,7 +13,7 @@
 
 ---
 
-- 👨‍💻 As an game developer and VR developer, I'm constantly learning and exploring new technologies to improve my skills.
+👨‍💻 As an game developer and VR developer, I'm constantly learning and exploring new technologies to improve my skills.
 
 ## 🛠 &nbsp;Tech Stack
 
