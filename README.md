@@ -41,18 +41,6 @@
 <br>
 
 </div>
- 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexTerradas&theme=github_dark)
-  
- </div>
- 
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexTerradas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📊 Most Used Language
 
@@ -61,14 +49,6 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=AlexTerradas&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
- 
- ### 🏆 Profile Trophies
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexTerradas&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
 
 ---
 
